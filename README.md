@@ -1,33 +1,34 @@
-|-------------------------SISCORAD-------------------------|
+<h1>Siscorad</h1>
 
+### Sistema de Controle de Rádio 
 
+<p align="center">Tópicos</p>
 
-Sistema de controle de rádio
+<p align="center"> ◽
+  <a href="+Descrição">Descrição</a> ◽
+  <a href="+Tecnologias Utilizadas">Tecnologias Utilizadas</a> ◽
+  <a href="+Pré-Requisitos">Pré-Requisitos</a> ◽
+  <a href="+Autor">Autor</a>
+</p>
 
+## Descrição 
 
-
-Descrição 
-
-Sistema desenvolvido para o cadastro de novos clientes e gerenciar a venda de
++ Sistema desenvolvido para o cadastro de novos clientes e gerenciar a venda de
 Spots (espaço para anúncio na rádio).
 Facilidade em controlar e consultar os clientes ativos, além da otimização no
 cadastro e venda dos Spots, podendo gerenciar o valor, tempo e tipo de propaganda
-desejada pelo cliente.
+desejada pelo cliente. 
+  
 
+## Tecnologias Utilizadas 🛠️
 
++ [IntelliJ](https://www.jetbrains.com/pt-br/idea/)
++ [MySQL](https://www.mysql.com/)
++ [Angular](https://angular.io/)
++ [Spring Boot](https://spring.io/projects/spring-boot)
++ [Postman](https://www.postman.com/)
 
-Tecnologias Utilizadas
+## Pré-Requisitos 
 
-Neste projeto foi utilizado a linguagem Java para o back-end através da IDE IntelliJ,
-MySQL para o banco de dados e Angular para o front-end. Também utilizamos o
-framework Spring Boot para agilizar o processo de desenvolvimento e o Postman
-para testar as APIs.
-
-
-
-Colaboradores
-
-Este projeto só foi possível ser realizado pela dedicação dos alunos Ana Paula da
-Silva, Giovani Costa e Matheus Passareli.
-Ana atuou na construção do banco de dados, Giovani Desenvolveu todo back-end e
-Matheus atuou na construção do front-end.
+Antes de começar, vc terá que ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://github.com/), [IntelliJ](https://www.jetbrains.com/pt-br/idea/) e [Angular](https://angular.io/).
