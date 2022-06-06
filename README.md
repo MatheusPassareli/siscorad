@@ -6,8 +6,8 @@
 
 <p align="center">
  <a href="#descrição">Descrição</a> •
- <a href="#pré-requisitos">Pré Requisitos</a> •
  <a href="#tecnologias">Tecnologias</a> •
+ <a href="#pré-requisitos">Pré Requisitos</a> •
  <a href="#autor">Autor</a>
 </p>
 
