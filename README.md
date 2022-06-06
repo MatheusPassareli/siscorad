@@ -2,14 +2,16 @@
 
 ### Sistema de Controle de Rádio 
 
-<p align="center">Tópicos</p>
+<p align="center">Tópicos.</p>
 
-<p align="center"> ◽
-  <a href="+Descrição">Descrição</a> ◽
-  <a href="+Tecnologias Utilizadas">Tecnologias Utilizadas</a> ◽
-  <a href="+Pré-Requisitos">Pré-Requisitos</a> ◽
-  <a href="+Autor">Autor</a>
+<p align="center">
+ <a href="#descrição">Descrição</a> •
+ <a href="#pré-requisitos">Pré Requisitos</a> •
+ <a href="#tecnologias">Tecnologias</a> •
+ <a href="#autor">Autor</a>
 </p>
+
+---
 
 ## Descrição 
 
@@ -20,7 +22,7 @@ cadastro e venda dos Spots, podendo gerenciar o valor, tempo e tipo de propagand
 desejada pelo cliente. 
   
 
-## Tecnologias Utilizadas 🛠️
+## Tecnologias 
 
 + [IntelliJ](https://www.jetbrains.com/pt-br/idea/)
 + [MySQL](https://www.mysql.com/)
@@ -32,3 +34,8 @@ desejada pelo cliente.
 
 Antes de começar, vc terá que ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://github.com/), [IntelliJ](https://www.jetbrains.com/pt-br/idea/) e [Angular](https://angular.io/).
+
+
+## Autor
+
++
